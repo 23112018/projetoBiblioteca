@@ -14402,6 +14402,16 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Usuario\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Usuario\\CadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuario\\CadastroRealizado.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
       "TargetPath": "Views\\Livro\\Listagem.cshtml",
       "FileKind": "mvc"
@@ -14414,6 +14424,16 @@
     {
       "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
       "TargetPath": "Views\\Livro\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Usuario\\RegistrarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\RegistrarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Usuario\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\ExcluirUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14434,6 +14454,16 @@
     {
       "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Usuario\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuario\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\iagol\\OneDrive\\Área de Trabalho\\Biblioteca\\Biblioteca\\Views\\Usuario\\listaDeUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\listaDeUsuario.cshtml",
       "FileKind": "mvc"
     },
     {

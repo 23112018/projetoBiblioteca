@@ -51,3 +51,9 @@ C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcor
 C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroRealizado.cshtml.g.cs
+C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuario.cshtml.g.cs
+C:\Users\iagol\OneDrive\Área de Trabalho\Biblioteca\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\listaDeUsuario.cshtml.g.cs
