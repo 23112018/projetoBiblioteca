@@ -1,5 +1,6 @@
 using Biblioteca.Models;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace Biblioteca.Controllers
 {
@@ -61,8 +62,8 @@ namespace Biblioteca.Controllers
             }
             else
             {
-                ViewData["Mensagem"] = "Exclusão Cancalda";
-                return View("listaDeUsuario", new UsuarioService());
+                ViewData["Mensagem"] = "Exclusão Cancelada";
+                return View("listaDeUsuario", new UsuarioService().Listar());
             }
         }
 

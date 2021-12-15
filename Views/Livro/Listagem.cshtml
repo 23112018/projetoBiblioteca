@@ -11,6 +11,9 @@
     {
        NumTotalDePag= Model.Count / NumLivrosPorPag + (Model.Count % NumLivrosPorPag == 0 ? 0 : 1);
         }
+        else{
+            ViewData["Mensagem"]= "NENHUMA PESQUISA ESCONTRADA";
+        }
 }
 <div class="row">
     <div class="col-md-12">
